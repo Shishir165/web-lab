@@ -27,3 +27,20 @@ nav a:hover {
 }
 
 
+[data-theme="dark"] {
+  background: #1a1a1a;
+  color: #ffffff;
+}
+
+[data-theme="dark"] header {
+  background: #34495e;
+}
+
+button {
+  background: #3498db;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  cursor: pointer;
+}
